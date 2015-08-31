@@ -1,0 +1,9 @@
+c:\users\drj29_000\documents\visual studio 2013\Projects\Zendesk\Zendesk\bin\Debug\Zendesk.dll
+c:\users\drj29_000\documents\visual studio 2013\Projects\Zendesk\Zendesk\bin\Debug\Zendesk.pdb
+c:\users\drj29_000\documents\visual studio 2013\Projects\Zendesk\Zendesk\bin\Debug\Newtonsoft.Json.dll
+c:\users\drj29_000\documents\visual studio 2013\Projects\Zendesk\Zendesk\bin\Debug\RestSharp.dll
+c:\users\drj29_000\documents\visual studio 2013\Projects\Zendesk\Zendesk\bin\Debug\Newtonsoft.Json.xml
+c:\users\drj29_000\documents\visual studio 2013\Projects\Zendesk\Zendesk\bin\Debug\RestSharp.xml
+c:\users\drj29_000\documents\visual studio 2013\Projects\Zendesk\Zendesk\obj\Debug\Zendesk.dll
+c:\users\drj29_000\documents\visual studio 2013\Projects\Zendesk\Zendesk\obj\Debug\Zendesk.pdb
+C:\Users\drj29_000\Documents\Visual Studio 2013\Projects\Zendesk\Zendesk\obj\Debug\Zendesk.csprojResolveAssemblyReference.cache

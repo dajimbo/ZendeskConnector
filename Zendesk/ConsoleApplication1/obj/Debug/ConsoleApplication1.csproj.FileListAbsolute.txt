@@ -1,0 +1,12 @@
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\bin\Debug\RestSharp.dll
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\bin\Debug\Zendesk.dll
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\bin\Debug\RestSharp.xml
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\bin\Debug\Zendesk.pdb
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\Users\drj29_000\documents\visual studio 2013\Projects\Zendesk\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
