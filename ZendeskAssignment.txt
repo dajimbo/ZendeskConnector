@@ -1,0 +1,7 @@
+Connector
+Name: Zendesk
+Actions: Create User, Reset User Password, Suspend User
+ 
+Additional Details
+To access Zendesk, you can create a free account at  https://developer.zendesk.com/auth/sign-up, which has a 30 day free trial.  Additional information can be located at https://developer.zendesk.com/rest_api/docs/core/introduction, which explains how to authenticate, and https://developer.zendesk.com/blog .  To develop the connector you will need to create a class library in .Net and import the module into PowerShell to execute the commands.  When submitting the connector you built, please provide me with the source code of the class library, sample PowerShell script that was used to execute the command, and  recording of all research/development/testing.
+ 
